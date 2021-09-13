@@ -6,4 +6,4 @@
 - [Matemática, Estadística y Método Científico: El papel de la Ciencia frente al Covid-19](https://www.facebook.com/integracioneconomicaUNFV/videos/900904473761701/)
 - [Ecuaciones del Cambio y el Efecto Mariposa](https://www.facebook.com/watch/live/?v=295653968451863)
 - [Mathematical Analysis in Economics](https://www.facebook.com/watch/live/?v=410827906868008)
-- Introducción al análisis matemático: [Parte 1, Lógica y Conjuntos](https://www.facebook.com/grupocentec/videos/368459018093318), [Parte 2, 2021-09-17]().
+- Introducción al análisis matemático: [Lógica y Conjuntos](https://www.facebook.com/grupocentec/videos/368459018093318), [Clase 2021-09-17]().
