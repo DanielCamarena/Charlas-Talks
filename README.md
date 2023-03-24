@@ -7,23 +7,22 @@ Hablo de matemática, su relación con la ciencia e ingeniería, y de temas afin
 
 1. Expociencia 2016
 
-1. UNTELS 2017
+2. UNTELS 2017
 
-1. La teoría de conjuntos ZF y el axioma de elección (GEM3, [Elección y Matemática](https://www.facebook.com/notes/347312730052307/)).
+3. La teoría de conjuntos ZF y el axioma de elección (GEM3, [Elección y Matemática](https://www.facebook.com/notes/347312730052307/)).
 
 ## 2018 - 2019
 
-1. *Los 10 algoritmos más importantes del siglo XX*
+4. *Los 10 algoritmos más importantes del siglo XX*
    
-   <p>Documento: `a.pdf`</p>
-   <p>Modalidad: Presencial</p>
-   Fecha: 2018/09/13
-   Resumen: https://www.facebook.com/notes/2661583500773852/
-   Resumen: [Para empezar, se ilustra la noción de algoritmo y luego se describe someramente cada uno de los 10 algoritmos del ránking...](https://www.facebook.com/notes/2661583500773852/)
+   - Documento: `a.pdf`
+   - Modalidad: Presencial
+   - Fecha: 2018/09/13
+   - Resumen: [Para empezar, se ilustra la noción de algoritmo y luego se describe someramente cada uno de los 10 algoritmos del ránking...](https://www.facebook.com/notes/2661583500773852/)
    
-1. On the stability of discrete-time Markov jump linear systems (CIPEFA 2018, [UNI](https://fieecs.uni.edu.pe/cipefa2018/)).
+5. On the stability of discrete-time Markov jump linear systems (CIPEFA 2018, [UNI](https://fieecs.uni.edu.pe/cipefa2018/)).
 
-1. &quot;XI Fast Worshop&quot;
+6. &quot;XI Fast Worshop&quot;
 
 1. Defensa licenciatura
 
