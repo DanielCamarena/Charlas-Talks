@@ -15,8 +15,8 @@ Hablo de matemática, su relación con la ciencia e ingeniería, y de temas afin
 
 1. *Los 10 algoritmos más importantes del siglo XX*
    
-   Documento: `a.pdf`
-   Modalidad: Presencial
+   <p>Documento: `a.pdf`</p>
+   <p>Modalidad: Presencial</p>
    Fecha: 2018/09/13
    Resumen: https://www.facebook.com/notes/2661583500773852/
    Resumen: [Para empezar, se ilustra la noción de algoritmo y luego se describe someramente cada uno de los 10 algoritmos del ránking...](https://www.facebook.com/notes/2661583500773852/)
