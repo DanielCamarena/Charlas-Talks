@@ -113,26 +113,26 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
 1. *Introducción a la evaluación de modelos climáticos*
 
    - Insitución/Evento: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
-   - Modalidad: [Virtual]()
+   - Modalidad: [Virtual](https://www.youtube.com/watch?v=OYpMpmTYTnQ)
    - Fecha: 2022/05/15
    - Documento: [`gem2022.html`](../main/15/gem2022.html)
    - Descripción/Resumen: [Para investigar el mar peruano y sus recursos se usan modelos numéricos...](https://www.facebook.com/GEMFCUNI/posts/pfbid02DnLGoEW2wK4FhWR9tf7qjRj8kn7Hzcxi7quJn395GqE3wFGnk9TLvqbNhef4jxhTl)
 
-1. *imarpe2022*
+1. *Variabilidad de alta frecuencia del viento en el sistema de afloramiento peruano bajo escenarios de cambio climático (CMIP6)*
 
-   - Evento o institución: [Coreeco Lima Callao 2022 (UNFV)](http://mateapliunt.edu.pe/xi_fast/)
-   - Modalidad: [Híbrido](https://www.facebook.com/watch/live/?ref=watch_permalink&v=480857853903976)
+   - Evento o institución: [Afrontando el cambio climático mediante el monitoreo y el modelado oceanográfico (IMARPE)](https://www.gob.pe/imarpe)
+   - Modalidad: [Virtual](https://www.youtube.com/watch?v=P3-CQ1QJojM)
    - Fecha: 2022/06/XX
    - Documento: [`imarpe2022.pdf`](../main/16/imarpe2022.pdf)
-   - Descripción/Resumen: ...
+   - Descripción/Resumen: La variabilidad de alta frecuencia del viento tiene mucha importancia en el sistema de afloramiento peruano, dado que eventos cortos pero intensos del viento pueden provocar la ocurrencia de eventos oceanográficos extremos como olas de calor o eventos de hipoxia.
    
-1. *upch2022*
+1. *Variabilidad de alta frecuencia del viento en el sistema de afloramiento peruano bajo escenarios de cambio climático (CMIP6)*
 
-   - Evento o institución: [Coreeco Lima Callao 2022 (UNFV)](http://mateapliunt.edu.pe/xi_fast/)
-   - Modalidad: [Híbrido](https://www.facebook.com/watch/live/?ref=watch_permalink&v=480857853903976)
+   - Evento o institución: [Escuela de Posgrado (UPCH)](https://www.posgradoupch.pe/)
+   - Modalidad: Virtual
    - Fecha: 2022/08/24
    - Documento: [`upch2022.pdf`](../main/17/upch2022.pdf)
-   - Descripción/Resumen: ...
+   - Descripción/Resumen: Defensa de Tesis de Maestrìa en Ciencias del Mar.
 
 1. *Introducción al uso de modelos climáticos*
 
