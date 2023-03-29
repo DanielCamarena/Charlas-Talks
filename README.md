@@ -78,7 +78,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Descripción/Resumen: ...
 
 10. *Mathematical Analysis in Economics*
-
+   
    - Evento o institución: [Grupo CEA](https://www.facebook.com/grupoceaperu)
    - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=410826106868188)
    - Fecha: 2021/01/25
@@ -86,7 +86,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Descripción/Resumen: ...
 
 11. Defensa de maestría en matemática aplicada (IMCA-UNI, 2021)
-
+   
 12. *Procesos estocásticos como modelos de series de tiempo*
 
    - Evento o institución: [Facultad de Economía (UNJFSC)](https://unjfsc.edu.pe/facultades/ciencias-economicas/)
