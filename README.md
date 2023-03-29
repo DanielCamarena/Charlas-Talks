@@ -130,7 +130,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Documento: `...pdf`
    - Descripción/Resumen: Introducción a la computación científica en la nube, casos de proyectos con R y Python.
 
-1. *Reportes y Documentos con LaTeX, R y Python*
+17. *Reportes y Documentos con LaTeX, R y Python*
 
    - Evento o institución: [APEECO SUMMER 2023](https://www.linkedin.com/company/apeecoperu/)
    - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=504188238594568)
