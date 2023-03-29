@@ -10,7 +10,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Insitución/Evento: [Expociencia 2016 (UNI)](https://www.uni.edu.pe/index.php/rss/item/1916-expociencia-2016)
    - Modalidad: Presencial
    - Fecha: 2016/10/17 al 2016/10/21
-   - Documento: [`expociencia2016.pdf`](https://github.com/DanielCamarena/Charlas-Talks/blob/main/1/expociencia2016.pdf)
+   - Documento: [`expociencia2016.pdf`](https://github.com/DanielCamarena/Charlas-Talks/blob/main/01/expociencia2016.pdf)
    - Descripción/Resumen: [Exhibición para escolares y público en general de la maqueta del proyecto del mismo nombre.](https://www.youtube.com/watch?v=JPgbDQHZxzE)
 
 2. *Sistemas lineales de salto Markoviano en tiempo discreto*
@@ -18,7 +18,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Insitución/Evento: [I Simposio Internacional de Ciencias e Ingenierías – ISSE Perú Summer 2017 (UNTELS)](https://psici2017.wixsite.com/simposio)
    - Modalidad: Presencial
    - Fecha: 2017/02/02 al 2017/02/04
-   - Documento: [`untels2017.pdf`](../main/2/untels2017.pdf)
+   - Documento: [`untels2017.pdf`](../main/02/untels2017.pdf)
    - Descripción/Resumen: Presentación del avance de mi seminario de tesis de grado bachiller.
 
 3. *Elección y Matemática*
@@ -26,7 +26,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Insitución/Evento: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
    - Modalidad: Presencial
    - Fecha: 2017/05/04
-   - Documento: [`gem2017.pdf`](../main/3/gem2017.pdf)
+   - Documento: [`gem2017.pdf`](../main/03/gem2017.pdf)
    - Descripción/Resumen: [Sobre la teoría de conjuntos ZF y el axioma de elección](https://www.facebook.com/notes/347312730052307/)
 
 
@@ -37,7 +37,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Insitución/Evento: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
    - Modalidad: Presencial
    - Fecha: 2018/09/13
-   - Documento: [`gem2018.pdf`](../main/4/gem2018.pdf)
+   - Documento: [`gem2018.pdf`](../main/04/gem2018.pdf)
    - Resumen/Descripción: [Para empezar, se ilustra la noción de algoritmo y luego se describe someramente cada uno de los 10 algoritmos del ránking...](https://www.facebook.com/notes/2661583500773852/)
    
 5. *Estabilidad casi segura de los sistemas lineales de salto Markoviano en tiempo discreto*
@@ -45,7 +45,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
    - Modalidad: Presencial
    - Fecha: 2018/01/04 - 2018/01/05
-   - Documento: [`xifw2018.pdf`](../main/5/xifw2018.pdf)
+   - Documento: [`xifw2018.pdf`](../main/05/xifw2018.pdf)
    - Resumen: Presentación del avance de tesis de licenciatura.
 
 6. *On the stability of discrete-time Markov jump linear systems*
@@ -53,7 +53,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Evento o institución: [CIPEFA 2018 (UNI)](https://fieecs.uni.edu.pe/cipefa2018/)
    - Modalidad: Presencial
    - Fecha: 2018/10/03 - 2018/10/06
-   - Documento: [`cipefa2018.pdf`](../main/6/cipefa2018.pdf)
+   - Documento: [`cipefa2018.pdf`](../main/06/cipefa2018.pdf)
    - Resumen: Presentación del segundo avance de tesis de licenciatura.
 
 7. Defensa de Licenciatura en Matemática (UNI, 2019)
@@ -63,7 +63,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Insitución/Evento: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
    - Modalidad: Presencial
    - Fecha: 2019/08/09
-   - Documento: [`cimac2019.pdf`](../main/8/cimac2019.pdf)
+   - Documento: [`cimac2019.pdf`](../main/08/cimac2019.pdf)
    - Resumen/Descripción: [Para empezar, se ilustra la noción de algoritmo y luego se describe someramente cada uno de los 10 algoritmos del ránking...](https://www.facebook.com/notes/2661583500773852/)
 
 ## 2020 - 2022
@@ -73,7 +73,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Evento o institución: [Integración Económica (UNFV)](https://www.facebook.com/CoreecoLimaCallao2022)
    - Modalidad: Virtual
    - Fecha: 2020/05/19
-   - Documento: [`memc2020.pdf`](../main/9/memc2020.pdf)
+   - Documento: [`memc2020.pdf`](../main/09/memc2020.pdf)
    - Descripción/Resumen: ...
 
 1. *Ecuaciones del Cambio y el Efecto Mariposa*
