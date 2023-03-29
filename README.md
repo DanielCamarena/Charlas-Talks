@@ -73,7 +73,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Evento o institución: [Integración Económica (UNFV)](https://www.facebook.com/CoreecoLimaCallao2022)
    - Modalidad: Virtual
    - Fecha: 2020/05/19
-   - Documento: [`memc2020.pdf`](../main/9/caos2020.pdf)
+   - Documento: [`memc2020.pdf`](../main/9/memc2020.pdf)
    - Descripción/Resumen: ...
 
 1. *Ecuaciones del Cambio y el Efecto Mariposa*
@@ -82,15 +82,15 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=295653968451863)
    - Fecha: 2020/07/16
    - Documento: [`caos2020.pdf`](../main/10/caos2020.pdf)
-   - Descripción/Resumen: ...
+   - Descripción/Resumen: La teoría del caos cambia nuestra forma de entender el mundo al describir las limitaciones al estudiar sistemas altamente sensibles a las condiciones iniciales.
 
 1. *Mathematical Analysis in Economics*
    
    - Evento o institución: [Grupo CEA](https://www.facebook.com/grupoceaperu)
    - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=410826106868188)
    - Fecha: 2021/01/25
-   - Documento: [`caos2020.pdf`](../main/11/caos2020.pdf)
-   - Descripción/Resumen: ...
+   - Documento: [`math4eco2021.pdf`](../main/11/math4eco2021.pdf)
+   - Descripción/Resumen: El análisis matemático es herramiento central en la teoría económica.
 
 1. *Clase Modelo de Estadı́stica I: Probabilidades*
 
@@ -98,7 +98,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Modalidad: Virtual
    - Fecha: 2021/01/29
    - Documento: [`up2021.pdf`](../main/12/up2021.pdf)
-   - Descripción/Resumen: ...
+   - Descripción/Resumen: Un abordaje paso a paso de un problema de cálculo de probabilidades.
 
 1. Defensa de maestría en matemática aplicada (IMCA-UNI, 2021)
    
@@ -108,15 +108,15 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Modalidad: Virtual
    - Fecha: 2021/11/17
    - Documento: [`unjfsc2021.pdf`](../main/14/unjfsc2021.pdf)
-   - Descripción/Resumen: ...
+   - Descripción/Resumen: Los modelos de series de tiempo son procesos estocásticos, teoría sobre la cual se pueden evaluar los métodos de análisis de series de tiempo.
 
-1. *GEM2022*
+1. *Introducción a la evaluación de modelos climáticos*
 
-   - Evento o institución: [Coreeco Lima Callao 2022 (UNFV)](http://mateapliunt.edu.pe/xi_fast/)
-   - Modalidad: [Híbrido](https://www.facebook.com/watch/live/?ref=watch_permalink&v=480857853903976)
+   - Insitución/Evento: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
+   - Modalidad: [Virtual]()
    - Fecha: 2022/05/15
    - Documento: [`gem2022.html`](../main/15/gem2022.html)
-   - Descripción/Resumen: ...
+   - Descripción/Resumen: [Para investigar el mar peruano y sus recursos se usan modelos numéricos...](https://www.facebook.com/GEMFCUNI/posts/pfbid02DnLGoEW2wK4FhWR9tf7qjRj8kn7Hzcxi7quJn395GqE3wFGnk9TLvqbNhef4jxhTl)
 
 1. *imarpe2022*
 
@@ -148,14 +148,14 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Modalidad: [Híbrido](https://www.facebook.com/watch/live/?ref=watch_permalink&v=480857853903976)
    - Fecha: 2022/09/14 - 2022/09/18
    - Documento: [`coreeco2022_R.html`](../main/19/coreeco2022_R.html) y [`coreeco2022_Python.html`](../main/19/coreeco2022_Python.html)
-   - Descripción/Resumen: ...
+   - Descripción/Resumen: R y Python son dos softwares libres con una gran comunidad y con mucha presencia en la computación científica, estadística y económica.
 
 1. *Estadística Matemática - Expectativas Iteradas*
 
    - Evento o institución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
    - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=628320005426754)
    - Fecha: 2022/10/14
-   - Documento: [`promedios2023.pdf`](../main/20/promedios2023.pdf)
+   - Documento: [`promedios2022.pdf`](../main/20/promedios2022.pdf)
    - Descripción/Resumen: La noción de promedio es fundamental en estadística, aquí se prueba geométricamente la coherencia de su uso como medida de representación.
 
 
@@ -163,19 +163,19 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
 
 21. *Cómo escribir matemática y no morir en el intento*
 
-   - Evento o institución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
-   - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=521352979870258)
-   - Fecha: 2023/02/04
-   - Documento: [`mate2023.pdf`](../main/21/mate2023.pdf)
-   - Descripción/Resumen: Se busca justificar por qué la matemática es un lenguaje y lógica en acción.
+      - Evento o institución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
+      - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=521352979870258)
+      - Fecha: 2023/02/04
+      - Documento: [`mate2023.pdf`](../main/21/mate2023.pdf)
+      - Descripción/Resumen: Se busca justificar por qué la matemática es un lenguaje y lógica en acción.
 
 22. *Trabajando con R y Python en la Nube*
 
-   - Evento o institución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
-   - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=102024176172385)
-   - Fecha: 2023/03/02
-   - Documento: [`cloud2023.pdf`](../main/22/cloud2023.pdf)
-   - Descripción/Resumen: Introducción a la computación científica en la nube, casos de proyectos con R y Python.
+      - Evento o institución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
+      - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=102024176172385)
+      - Fecha: 2023/03/02
+      - Documento: [`cloud2023.pdf`](../main/22/cloud2023.pdf)
+      - Descripción/Resumen: Introducción a la computación científica en la nube, casos de proyectos con R y Python.
 
 23. *Reportes y Documentos con LaTeX, R y Python*
 
