@@ -10,7 +10,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Insitución/Evento: [Expociencia 2016 (UNI)](https://www.uni.edu.pe/index.php/rss/item/1916-expociencia-2016)
    - Modalidad: Presencial
    - Fecha: 2016/10/17 al 2016/10/21
-   - Documento: ...
+   - Documento: [`expociencia2016.pdf`](https://github.com/DanielCamarena/Charlas-Talks/blob/main/1/expociencia2016.pdf)
    - Descripción/Resumen: [Exhibición para escolares y público en general de la maqueta del proyecto del mismo nombre.](https://www.youtube.com/watch?v=JPgbDQHZxzE)
 
 2. *Sistemas lineales de salto Markoviano en tiempo discreto*
@@ -18,7 +18,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Insitución/Evento: [I Simposio Internacional de Ciencias e Ingenierías – ISSE Perú Summer 2017 (UNTELS)](https://psici2017.wixsite.com/simposio)
    - Modalidad: Presencial
    - Fecha: 2017/02/02 al 2017/02/04
-   - Documento: ...
+   - Documento: [`untels2017.pdf`](Charlas-Talks/blob/main/2/untels2017.pdf)
    - Descripción/Resumen: Presentación del avance de mi seminario de tesis de grado bachiller.
 
 3. *Elección y Matemática*
