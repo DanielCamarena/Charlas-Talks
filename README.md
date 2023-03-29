@@ -132,7 +132,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Modalidad: Virtual
    - Fecha: 2022/08/24
    - Documento: [`upch2022.pdf`](../main/17/upch2022.pdf)
-   - Descripción/Resumen: Defensa de Tesis de Maestrìa en Ciencias del Mar.
+   - Descripción/Resumen: Defensa de Tesis de Maestría en Ciencias del Mar.
 
 1. *Introducción al uso de modelos climáticos*
 
