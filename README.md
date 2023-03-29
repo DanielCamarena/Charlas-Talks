@@ -61,27 +61,27 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
 
 ## 2020 - 2022
 
-8. [Matemática, Estadística y Método Científico: El papel de la Ciencia frente al Covid-19](https://www.facebook.com/integracioneconomicaUNFV/videos/900904473761701/)
+8. *Matemática, Estadística y Método Científico: El papel de la Ciencia frente al Covid-19*
 
-   - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
-   - Modalidad: Presencial
-   - Fecha: 2018/01/04 - 2018/01/05
+   - Evento o institución: [Integración Económica (UNFV)](https://www.facebook.com/CoreecoLimaCallao2022)
+   - Modalidad: Virtual
+   - Fecha: 2020/05
    - Documento: `...pdf`
-   - Resumen: Presentación del segundo avance de tesis de licenciatura.
+   - Descripción/Resumen: ...
 
-9. [Ecuaciones del Cambio y el Efecto Mariposa](https://www.facebook.com/watch/live/?v=295653968451863)
-
-   - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
-   - Modalidad: Presencial
-   - Fecha: 2018/01/04 - 2018/01/05
+9. *Ecuaciones del Cambio y el Efecto Mariposa*
+   
+   - Evento o institución: [Grupo CEA](https://www.facebook.com/grupoceaperu)
+   - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=295653968451863)
+   - Fecha: 2020/07/16
    - Documento: `...pdf`
-   - Resumen: Presentación del segundo avance de tesis de licenciatura.
+   - Descripción/Resumen: ...
 
 10. *Mathematical Analysis in Economics*
 
    - Evento o institución: [Grupo CEA](https://www.facebook.com/grupoceaperu)
-   - Modalidad: [Virtual]([https://www.facebook.com/watch/live/?v=410827906868008](https://www.facebook.com/watch/live/?ref=watch_permalink&v=410826106868188))
-   - Fecha: 2022/10/14
+   - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=410826106868188)
+   - Fecha: 2021/01/25
    - Documento: `...pdf`
    - Descripción/Resumen: ...
 
