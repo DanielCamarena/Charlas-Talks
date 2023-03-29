@@ -114,24 +114,24 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
 
    - Evento o institución: [Coreeco Lima Callao 2022 (UNFV)](http://mateapliunt.edu.pe/xi_fast/)
    - Modalidad: [Híbrido](https://www.facebook.com/watch/live/?ref=watch_permalink&v=480857853903976)
-   - Fecha: 2022/09/14 - 2022/09/18
-   - Documento: [`unjfsc2021.pdf`](../main/9/unjfsc2021.pdf) y [`unjfsc2021.pdf`](../main/9/unjfsc2021.pdf)
+   - Fecha: 2022/05/15
+   - Documento: [`gem2022.html`](../main/15/gem2022.html)
    - Descripción/Resumen: ...
 
 1. *imarpe2022*
 
    - Evento o institución: [Coreeco Lima Callao 2022 (UNFV)](http://mateapliunt.edu.pe/xi_fast/)
    - Modalidad: [Híbrido](https://www.facebook.com/watch/live/?ref=watch_permalink&v=480857853903976)
-   - Fecha: 2022/08/24
-   - Documento: [`unjfsc2021.pdf`](../main/9/unjfsc2021.pdf) y [`unjfsc2021.pdf`](../main/9/unjfsc2021.pdf)
+   - Fecha: 2022/06/XX
+   - Documento: [`imarpe2022.pdf`](../main/16/imarpe2022.pdf)
    - Descripción/Resumen: ...
    
 1. *upch2022*
 
    - Evento o institución: [Coreeco Lima Callao 2022 (UNFV)](http://mateapliunt.edu.pe/xi_fast/)
    - Modalidad: [Híbrido](https://www.facebook.com/watch/live/?ref=watch_permalink&v=480857853903976)
-   - Fecha: 2022/09/14 - 2022/09/18
-   - Documento: [`unjfsc2021.pdf`](../main/9/unjfsc2021.pdf) y [`unjfsc2021.pdf`](../main/9/unjfsc2021.pdf)
+   - Fecha: 2022/08/24
+   - Documento: [`upch2022.pdf`](../main/17/upch2022.pdf)
    - Descripción/Resumen: ...
 
 1. *Introducción al uso de modelos climáticos*
@@ -139,7 +139,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Evento o institución: [SEMINARIOS DE PROBABILIDAD IMCA (UNI)](https://www.facebook.com/imcauni)
    - Modalidad: Presencial
    - Fecha: 2022/08/31
-   - Documento: [`imca2022.html`](../main/9/imca2022.html)
+   - Documento: [`imca2022.html`](../main/18/imca2022.html)
    - Descripción/Resumen: [El mar peruano forma parte de uno de los cuatro ecosistemas de borde oriental más importantes para la pesquería mundial...](https://www.facebook.com/imcauni/posts/pfbid0EMCu4DwFy8b25A3DiXeByywhSEQqabfdZeka3mvUzYLSPAwwhJATUK8awgiARyJml)
 
 1. *R y Python para computación científica*
@@ -147,7 +147,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Evento o institución: [Coreeco Lima Callao 2022 (UNFV)](http://mateapliunt.edu.pe/xi_fast/)
    - Modalidad: [Híbrido](https://www.facebook.com/watch/live/?ref=watch_permalink&v=480857853903976)
    - Fecha: 2022/09/14 - 2022/09/18
-   - Documento: [`unjfsc2021.pdf`](../main/9/unjfsc2021.pdf) y [`unjfsc2021.pdf`](../main/9/unjfsc2021.pdf)
+   - Documento: [`coreeco2022_R.html`](../main/19/coreeco2022_R.html) y [`coreeco2022_Python.html`](../main/19/coreeco2022_Python.html)
    - Descripción/Resumen: ...
 
 1. *Estadística Matemática - Expectativas Iteradas*
@@ -155,7 +155,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Evento o institución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
    - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=628320005426754)
    - Fecha: 2022/10/14
-   - Documento: [`unjfsc2021.pdf`](../main/9/unjfsc2021.pdf)
+   - Documento: [`promedios2023.pdf`](../main/20/promedios2023.pdf)
    - Descripción/Resumen: La noción de promedio es fundamental en estadística, aquí se prueba geométricamente la coherencia de su uso como medida de representación.
 
 
@@ -166,7 +166,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Evento o institución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
    - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=521352979870258)
    - Fecha: 2023/02/04
-   - Documento: `...pdf`
+   - Documento: [`mate2023.pdf`](../main/21/mate2023.pdf)
    - Descripción/Resumen: Se busca justificar por qué la matemática es un lenguaje y lógica en acción.
 
 22. *Trabajando con R y Python en la Nube*
@@ -174,7 +174,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Evento o institución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
    - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=102024176172385)
    - Fecha: 2023/03/02
-   - Documento: `...pdf`
+   - Documento: [`cloud2023.pdf`](../main/22/cloud2023.pdf)
    - Descripción/Resumen: Introducción a la computación científica en la nube, casos de proyectos con R y Python.
 
 23. *Reportes y Documentos con LaTeX, R y Python*
@@ -182,7 +182,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
       - Evento o institución: [APEECO SUMMER 2023](https://www.linkedin.com/company/apeecoperu/)
       - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=504188238594568)
       - Fecha: 2023/03/18
-      - Documento: `...pdf`
+      - Documento: [`docs2023.pdf`](../main/23/docs2023.pdf)
       - Descripción/Resumen: Ejemplos de Reportes y Documentos con LaTeX, R y Python.
 
 ## Contacto
