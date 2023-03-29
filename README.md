@@ -122,15 +122,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
 
    - Evento o institución: [Coreeco Lima Callao 2022 (UNFV)](http://mateapliunt.edu.pe/xi_fast/)
    - Modalidad: [Híbrido](https://www.facebook.com/watch/live/?ref=watch_permalink&v=480857853903976)
-   - Fecha: 2022/09/14 - 2022/09/18
-   - Documento: [`unjfsc2021.pdf`](../main/9/unjfsc2021.pdf) y [`unjfsc2021.pdf`](../main/9/unjfsc2021.pdf)
-   - Descripción/Resumen: ...
-
-1. *imca2022*
-
-   - Evento o institución: [Coreeco Lima Callao 2022 (UNFV)](http://mateapliunt.edu.pe/xi_fast/)
-   - Modalidad: [Híbrido](https://www.facebook.com/watch/live/?ref=watch_permalink&v=480857853903976)
-   - Fecha: 2022/09/14 - 2022/09/18
+   - Fecha: 2022/08/24
    - Documento: [`unjfsc2021.pdf`](../main/9/unjfsc2021.pdf) y [`unjfsc2021.pdf`](../main/9/unjfsc2021.pdf)
    - Descripción/Resumen: ...
    
@@ -141,6 +133,14 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Fecha: 2022/09/14 - 2022/09/18
    - Documento: [`unjfsc2021.pdf`](../main/9/unjfsc2021.pdf) y [`unjfsc2021.pdf`](../main/9/unjfsc2021.pdf)
    - Descripción/Resumen: ...
+
+1. *Introducción al uso de modelos climáticos*
+
+   - Evento o institución: [SEMINARIOS DE PROBABILIDAD IMCA (UNI)](https://www.facebook.com/imcauni)
+   - Modalidad: Presencial
+   - Fecha: 2022/08/31
+   - Documento: [`imca2022.html`](../main/9/imca2022.html)
+   - Descripción/Resumen: [El mar peruano forma parte de uno de los cuatro ecosistemas de borde oriental más importantes para la pesquería mundial...](https://www.facebook.com/imcauni/posts/pfbid0EMCu4DwFy8b25A3DiXeByywhSEQqabfdZeka3mvUzYLSPAwwhJATUK8awgiARyJml)
 
 1. *R y Python para computación científica*
 
