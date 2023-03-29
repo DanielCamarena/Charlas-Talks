@@ -74,7 +74,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Modalidad: Virtual
    - Fecha: 2020/05/19
    - Documento: [`memc2020.pdf`](../main/09/memc2020.pdf)
-   - Descripción/Resumen: ...
+   - Descripción/Resumen: El método científico formula teorías enunciadas en términos lógicos (matemática) que se ponen a prueba mediante procesos de experimentación que requieren métodos de análisis de datos (estadística).
 
 1. *Ecuaciones del Cambio y el Efecto Mariposa*
    
@@ -90,7 +90,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=410826106868188)
    - Fecha: 2021/01/25
    - Documento: [`math4eco2021.pdf`](../main/11/math4eco2021.pdf)
-   - Descripción/Resumen: El análisis matemático es herramiento central en la teoría económica.
+   - Descripción/Resumen: El análisis matemático es herramienta central en la teoría económica, especialmente en microeconomía.
 
 1. *Clase Modelo de Estadı́stica I: Probabilidades*
 
