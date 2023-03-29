@@ -63,27 +63,80 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
 
 8. [Matemática, Estadística y Método Científico: El papel de la Ciencia frente al Covid-19](https://www.facebook.com/integracioneconomicaUNFV/videos/900904473761701/)
 
+   - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
+   - Modalidad: Presencial
+   - Fecha: 2018/01/04 - 2018/01/05
+   - Documento: `...pdf`
+   - Resumen: Presentación del segundo avance de tesis de licenciatura.
+
 9. [Ecuaciones del Cambio y el Efecto Mariposa](https://www.facebook.com/watch/live/?v=295653968451863)
+
+   - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
+   - Modalidad: Presencial
+   - Fecha: 2018/01/04 - 2018/01/05
+   - Documento: `...pdf`
+   - Resumen: Presentación del segundo avance de tesis de licenciatura.
 
 10. [Mathematical Analysis in Economics](https://www.facebook.com/watch/live/?v=410827906868008)
 
+   - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
+   - Modalidad: Presencial
+   - Fecha: 2018/01/04 - 2018/01/05
+   - Documento: `...pdf`
+   - Resumen: Presentación del segundo avance de tesis de licenciatura.
+
 11. Procesos estocásticos como modelos de series de tiempo [(Facultad de Economía, UNJFSC 2021)](https://unjfsc.edu.pe/facultades/ciencias-economicas/).
+
+   - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
+   - Modalidad: Presencial
+   - Fecha: 2018/01/04 - 2018/01/05
+   - Documento: `...pdf`
+   - Resumen: Presentación del segundo avance de tesis de licenciatura.
 
 12. Defensa de maestría en matemática aplicada (IMCA-UNI, 2022)
 
 13. [Coreeco Lima Callao 2022: R y Python para computación científica](https://www.facebook.com/watch/live/?ref=watch_permalink&v=480857853903976)
 
+   - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
+   - Modalidad: Presencial
+   - Fecha: 2018/01/04 - 2018/01/05
+   - Documento: `...pdf`
+   - Resumen: Presentación del segundo avance de tesis de licenciatura.
+
 14. [Estadística Matemática - Expectativas Iteradas](https://www.facebook.com/watch/live/?ref=watch_permalink&v=628320005426754)
+
+   - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
+   - Modalidad: Presencial
+   - Fecha: 2018/01/04 - 2018/01/05
+   - Documento: `...pdf`
+   - Resumen: Presentación del segundo avance de tesis de licenciatura.
 
 
 ## 2023 - Presente
 
 15. [Cómo escribir matemática y no morir en el intento](https://www.facebook.com/watch/live/?ref=watch_permalink&v=521352979870258)
 
+   - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
+   - Modalidad: Presencial
+   - Fecha: 2018/01/04 - 2018/01/05
+   - Documento: `...pdf`
+   - Resumen: Presentación del segundo avance de tesis de licenciatura.
+
 16. [Trabajando con R y Python en la Nube](https://www.facebook.com/watch/live/?ref=watch_permalink&v=102024176172385)
+
+   - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
+   - Modalidad: Presencial
+   - Fecha: 2018/01/04 - 2018/01/05
+   - Documento: `...pdf`
+   - Resumen: Presentación del segundo avance de tesis de licenciatura.
 
 17. [Participación en APECO-SUMMER: Reportes y Documentos con LaTeX, R y Python](https://www.facebook.com/watch/live/?ref=watch_permalink&v=504188238594568)
 
+   - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
+   - Modalidad: Presencial
+   - Fecha: 2018/01/04 - 2018/01/05
+   - Documento: `...pdf`
+   - Resumen: Presentación del segundo avance de tesis de licenciatura.
 
 ## Contacto
 
