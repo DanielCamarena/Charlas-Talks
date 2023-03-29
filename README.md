@@ -79,37 +79,37 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
 
 10. [Mathematical Analysis in Economics](https://www.facebook.com/watch/live/?v=410827906868008)
 
-   - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
-   - Modalidad: Presencial
+   - Evento o institución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
+   - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=628320005426754)
+   - Fecha: 2022/10/14
+   - Documento: `...pdf`
+   - Descripción/Resumen: La noción de promedio es fundamental en estadística, aquí se prueba geométricamente la coherencia de su uso como medida de representación.
+
+11. Defensa de maestría en matemática aplicada (IMCA-UNI, 2021)
+
+12. *Procesos estocásticos como modelos de series de tiempo*
+
+   - Evento o institución: [Facultad de Economía (UNJFSC)](https://unjfsc.edu.pe/facultades/ciencias-economicas/)
+   - Modalidad: Virtual
+   - Fecha: 2021/01/04...
+   - Documento: `...pdf`
+   - Descripción/Resumen: Presentación del segundo avance de tesis de licenciatura.
+
+13. *R y Python para computación científica*
+
+   - Evento o institución: [Coreeco Lima Callao 2022 (UNFV)](http://mateapliunt.edu.pe/xi_fast/)
+   - Modalidad: [Híbrido](https://www.facebook.com/watch/live/?ref=watch_permalink&v=480857853903976)
    - Fecha: 2018/01/04 - 2018/01/05
    - Documento: `...pdf`
    - Resumen: Presentación del segundo avance de tesis de licenciatura.
 
-11. Procesos estocásticos como modelos de series de tiempo [(Facultad de Economía, UNJFSC 2021)](https://unjfsc.edu.pe/facultades/ciencias-economicas/).
-
-   - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
-   - Modalidad: Presencial
-   - Fecha: 2018/01/04 - 2018/01/05
-   - Documento: `...pdf`
-   - Resumen: Presentación del segundo avance de tesis de licenciatura.
-
-12. Defensa de maestría en matemática aplicada (IMCA-UNI, 2022)
-
-13. [Coreeco Lima Callao 2022: R y Python para computación científica](https://www.facebook.com/watch/live/?ref=watch_permalink&v=480857853903976)
-
-   - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
-   - Modalidad: Presencial
-   - Fecha: 2018/01/04 - 2018/01/05
-   - Documento: `...pdf`
-   - Resumen: Presentación del segundo avance de tesis de licenciatura.
-
-14. [Estadística Matemática - Expectativas Iteradas](https://www.facebook.com/watch/live/?ref=watch_permalink&v=628320005426754)
+14. *Estadística Matemática - Expectativas Iteradas*
 
    - Evento o institución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
-   - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=521352979870258)
-   - Fecha: 2023/02/04
+   - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=628320005426754)
+   - Fecha: 2022/10/14
    - Documento: `...pdf`
-   - Descripción/Resumen: Se busca justificar por qué la matemática es un lenguaje y lógica en acción.
+   - Descripción/Resumen: La noción de promedio es fundamental en estadística, aquí se prueba geométricamente la coherencia de su uso como medida de representación.
 
 
 ## 2023 - Presente
