@@ -77,13 +77,13 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Documento: `...pdf`
    - Resumen: Presentación del segundo avance de tesis de licenciatura.
 
-10. [Mathematical Analysis in Economics](https://www.facebook.com/watch/live/?v=410827906868008)
+10. *Mathematical Analysis in Economics*
 
-   - Evento o institución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
-   - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=628320005426754)
+   - Evento o institución: [Grupo CEA](https://www.facebook.com/grupoceaperu)
+   - Modalidad: [Virtual]([https://www.facebook.com/watch/live/?v=410827906868008](https://www.facebook.com/watch/live/?ref=watch_permalink&v=410826106868188))
    - Fecha: 2022/10/14
    - Documento: `...pdf`
-   - Descripción/Resumen: La noción de promedio es fundamental en estadística, aquí se prueba geométricamente la coherencia de su uso como medida de representación.
+   - Descripción/Resumen: ...
 
 11. Defensa de maestría en matemática aplicada (IMCA-UNI, 2021)
 
