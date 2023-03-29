@@ -18,7 +18,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Insitución/Evento: [I Simposio Internacional de Ciencias e Ingenierías – ISSE Perú Summer 2017 (UNTELS)](https://psici2017.wixsite.com/simposio)
    - Modalidad: Presencial
    - Fecha: 2017/02/02 al 2017/02/04
-   - Documento: [`untels2017.pdf`](Charlas-Talks/blob/main/2/untels2017.pdf)
+   - Documento: [`untels2017.pdf`](../main/2/untels2017.pdf)
    - Descripción/Resumen: Presentación del avance de mi seminario de tesis de grado bachiller.
 
 3. *Elección y Matemática*
