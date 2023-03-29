@@ -26,7 +26,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Insitución/Evento: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
    - Modalidad: Presencial
    - Fecha: 2017/05/04
-   - Documento: [`untels2017.pdf`](../main/2/untels2017.pdf)
+   - Documento: [`gem2017.pdf`](../main/3/gem2017.pdf)
    - Descripción/Resumen: [Sobre la teoría de conjuntos ZF y el axioma de elección](https://www.facebook.com/notes/347312730052307/)
 
 
@@ -37,23 +37,23 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Insitución/Evento: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
    - Modalidad: Presencial
    - Fecha: 2018/09/13
-   - Documento: [`untels2017.pdf`](../main/2/untels2017.pdf)
+   - Documento: [`gem2018.pdf`](../main/4/gem2018.pdf)
    - Resumen/Descripción: [Para empezar, se ilustra la noción de algoritmo y luego se describe someramente cada uno de los 10 algoritmos del ránking...](https://www.facebook.com/notes/2661583500773852/)
    
-5. *On the stability of discrete-time Markov jump linear systems*
-
-   - Evento o institución: [CIPEFA 2018 (UNI)](https://fieecs.uni.edu.pe/cipefa2018/)
-   - Modalidad: Presencial
-   - Fecha: 2018/10/03 - 2018/10/06
-   - Documento: [`untels2017.pdf`](../main/2/untels2017.pdf)
-   - Resumen: Presentación del avance de tesis de licenciatura.
-
-6. *Estabilidad casi segura de los sistemas lineales de salto Markoviano en tiempo discreto*
+5. *Estabilidad casi segura de los sistemas lineales de salto Markoviano en tiempo discreto*
 
    - Evento o institución: [XI Fast Workshop (UNT)](http://mateapliunt.edu.pe/xi_fast/)
    - Modalidad: Presencial
    - Fecha: 2018/01/04 - 2018/01/05
-   - Documento: [`xifw2018.pdf`](../main/6/xifw2018.pdf)
+   - Documento: [`xifw2018.pdf`](../main/5/xifw2018.pdf)
+   - Resumen: Presentación del avance de tesis de licenciatura.
+
+6. *On the stability of discrete-time Markov jump linear systems*
+
+   - Evento o institución: [CIPEFA 2018 (UNI)](https://fieecs.uni.edu.pe/cipefa2018/)
+   - Modalidad: Presencial
+   - Fecha: 2018/10/03 - 2018/10/06
+   - Documento: [`cipefa2018.pdf`](../main/6/cipefa2018.pdf)
    - Resumen: Presentación del segundo avance de tesis de licenciatura.
 
 7. Defensa de Licenciatura en Matemática (UNI, 2019)
