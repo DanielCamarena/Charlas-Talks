@@ -64,7 +64,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Modalidad: Presencial
    - Fecha: 2019/08/09
    - Documento: [`cimac2019.pdf`](../main/08/cimac2019.pdf)
-   - Resumen/Descripción: [Para empezar, se ilustra la noción de algoritmo y luego se describe someramente cada uno de los 10 algoritmos del ránking...](https://www.facebook.com/notes/2661583500773852/)
+   - Resumen/Descripción: Los métodos de Monte Carlo son un conjunto algoritmos muy que aprovechan el poder computacional para simular escenarios a partir de los cuales calcular estadísticas.
 
 ## 2020 - 2022
 
@@ -110,22 +110,22 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Documento: [`unjfsc2021.pdf`](../main/14/unjfsc2021.pdf)
    - Descripción/Resumen: Los modelos de series de tiempo son procesos estocásticos, teoría sobre la cual se pueden evaluar los métodos de análisis de series de tiempo.
 
-1. *Introducción a la evaluación de modelos climáticos*
-
-   - Insitución/Evento: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
-   - Modalidad: [Virtual](https://www.youtube.com/watch?v=OYpMpmTYTnQ)
-   - Fecha: 2022/05/15
-   - Documento: [`gem2022.html`](../main/15/gem2022.html)
-   - Descripción/Resumen: [Para investigar el mar peruano y sus recursos se usan modelos numéricos...](https://www.facebook.com/GEMFCUNI/posts/pfbid02DnLGoEW2wK4FhWR9tf7qjRj8kn7Hzcxi7quJn395GqE3wFGnk9TLvqbNhef4jxhTl)
-
 1. *Variabilidad de alta frecuencia del viento en el sistema de afloramiento peruano bajo escenarios de cambio climático (CMIP6)*
 
    - Evento o institución: [Afrontando el cambio climático mediante el monitoreo y el modelado oceanográfico (IMARPE)](https://www.gob.pe/imarpe)
    - Modalidad: [Virtual](https://www.youtube.com/watch?v=P3-CQ1QJojM)
-   - Fecha: 2022/06/XX
-   - Documento: [`imarpe2022.pdf`](../main/16/imarpe2022.pdf)
-   - Descripción/Resumen: La variabilidad de alta frecuencia del viento tiene mucha importancia en el sistema de afloramiento peruano, dado que eventos cortos pero intensos del viento pueden provocar la ocurrencia de eventos oceanográficos extremos como olas de calor o eventos de hipoxia.
-   
+   - Fecha: 2022/05/13
+   - Documento: [`imarpe2022.pdf`](../main/15/imarpe2022.pdf)
+   - Descripción/Resumen: [La variabilidad de alta frecuencia del viento tiene mucha importancia en el sistema de afloramiento peruano, dado que eventos cortos pero intensos del viento pueden provocar la ocurrencia de eventos oceanográficos extremos como olas de calor o eventos de hipoxia...](https://www.facebook.com/imarpe.pe/posts/pfbid02Eue99fUMwdf57q5jDfpP6jFWtTFNLQGn6M7BZpCvJtih4TmL9VsqJx2DtkP2LFiFl)
+
+1. *Introducción a la evaluación de modelos climáticos*
+
+   - Insitución/Evento: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
+   - Modalidad: [Virtual](https://www.youtube.com/watch?v=OYpMpmTYTnQ)
+   - Fecha: 2022/05/19
+   - Documento: [`gem2022.html`](../main/16/gem2022.html)
+   - Descripción/Resumen: [Para investigar el mar peruano y sus recursos se usan modelos numéricos...](https://www.facebook.com/GEMFCUNI/posts/pfbid02DnLGoEW2wK4FhWR9tf7qjRj8kn7Hzcxi7quJn395GqE3wFGnk9TLvqbNhef4jxhTl)
+
 1. *Variabilidad de alta frecuencia del viento en el sistema de afloramiento peruano bajo escenarios de cambio climático (CMIP6)*
 
    - Evento o institución: [Escuela de Posgrado (UPCH)](https://www.posgradoupch.pe/)
