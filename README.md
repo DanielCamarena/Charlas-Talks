@@ -77,7 +77,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Documento: `...pdf`
    - Descripción/Resumen: ...
 
-10. *Mathematical Analysis in Economics*
+1. *Mathematical Analysis in Economics*
    
    - Evento o institución: [Grupo CEA](https://www.facebook.com/grupoceaperu)
    - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=410826106868188)
@@ -85,9 +85,9 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Documento: `...pdf`
    - Descripción/Resumen: ...
 
-11. Defensa de maestría en matemática aplicada (IMCA-UNI, 2021)
+1. Defensa de maestría en matemática aplicada (IMCA-UNI, 2021)
    
-12. *Procesos estocásticos como modelos de series de tiempo*
+1. *Procesos estocásticos como modelos de series de tiempo*
 
    - Evento o institución: [Facultad de Economía (UNJFSC)](https://unjfsc.edu.pe/facultades/ciencias-economicas/)
    - Modalidad: Virtual
@@ -95,7 +95,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Documento: `...pdf`
    - Descripción/Resumen: Presentación del segundo avance de tesis de licenciatura.
 
-13. *R y Python para computación científica*
+1. *R y Python para computación científica*
 
    - Evento o institución: [Coreeco Lima Callao 2022 (UNFV)](http://mateapliunt.edu.pe/xi_fast/)
    - Modalidad: [Híbrido](https://www.facebook.com/watch/live/?ref=watch_permalink&v=480857853903976)
@@ -103,7 +103,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Documento: `...pdf`
    - Resumen: Presentación del segundo avance de tesis de licenciatura.
 
-14. *Estadística Matemática - Expectativas Iteradas*
+1. *Estadística Matemática - Expectativas Iteradas*
 
    - Evento o institución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
    - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=628320005426754)
@@ -130,7 +130,7 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
    - Documento: `...pdf`
    - Descripción/Resumen: Introducción a la computación científica en la nube, casos de proyectos con R y Python.
 
-17. *Reportes y Documentos con LaTeX, R y Python*
+1. *Reportes y Documentos con LaTeX, R y Python*
 
    - Evento o institución: [APEECO SUMMER 2023](https://www.linkedin.com/company/apeecoperu/)
    - Modalidad: [Virtual](https://www.facebook.com/watch/live/?ref=watch_permalink&v=504188238594568)
