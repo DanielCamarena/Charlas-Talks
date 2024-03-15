@@ -1,6 +1,6 @@
 # Charlas-Talks
 
-Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;.
+Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;. Las charlas pueden ser de nivel técnico o divulgativo.
 
 
 ## 2012 - 2017
