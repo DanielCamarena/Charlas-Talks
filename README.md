@@ -185,6 +185,14 @@ Hablo de matemática, ciencia e ingeniería y &quot;temas afines&quot;. Las char
       - Documento: [`docs2023.pdf`](../main/23/docs2023.pdf)
       - Descripción/Resumen: Ejemplos de Reportes y Documentos con LaTeX, R y Python.
 
+24. *Aplicaciones de las Ecuaciones Diferenciales Ordinarias*
+
+      - Evento o institución: [UTEC]()
+      - Modalidad: Presencial
+      - Fecha: 2023/12
+      - Documento: [`docs202312.pdf`](../main/23/doc202312.pdf)
+      - Descripción/Resumen: E...
+
 ## Contacto
 
 vcamarenap@uni.pe
